@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(194, 156, 118);
+    font-family: cursive;
+    background-image: url(mate1.png);
+    background-repeat:no-repeat;
+    background-position: 24% 1%;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+h2{
+    text-decoration: saddlebrown;
+}
+p{
+    font-size: 20;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    margin-right: 10%;
+    text-align: justify;
+}
+div{
+    align-self: center;
+}
+footer{
+    position: relative;
+    padding: 10px;
+    background-color: saddlebrown;
+    text-align: center;
+    margin-top: 5%;
+}
